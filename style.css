@@ -290,8 +290,9 @@ a:focus{ outline: 3px solid rgba(11,123,220,.15); outline-offset: 3px; border-ra
 /* === Responsive image swap for About section === */
 @media (max-width: 768px) {
   .about-image {
-    background-image: url('About-mobile.png') !important;
+    background-image: url('About.jpg') !important;
     background-position: center;
     background-size: cover;
   }
 }
+
